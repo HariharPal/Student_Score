@@ -1,0 +1,5 @@
+
+--> @dataclass
+
+    DataClass is a decorator in python automatically generates common special methods like __init__ & __repr__ 
+    for classes that primarily store data, significantly reducing boiler plate code.
